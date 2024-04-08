@@ -1,8 +1,8 @@
 import './App.css';
-import Main from './components/Main';
+import Content from './components/Content';
 
 export default () => (
-  <div className="App">
-    <Main />
+  <div class="background"> 
+    <Content /> 
   </div>
 );
